@@ -1,3 +1,4 @@
 Hello World, Welcome to GitHub!!
-My name is Sammed A H.|
-Thank You and Regards
+My name is Sammed A H.
+I am web developer aspirant.
+Thank You and Regards.
